@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Aritra Roy</string>
+    <string name="my_bio"> Hello! I am <b>Aritra Roy</b>.\n Currently, I am pursuing the IIT Madras Online Degree course in Programming and Data Science, along with B.E. in Civil Engineering at BMSCE, Bangalore <u>(currently studying in the 4th semester)</u>. \n I am planning to graduate with both the B.E.(Civil Engineering) from BMSCE and B.Sc. degree from IIT Madras by 2024. \n
+    I have bought the GfG DSA self-paced course and the Comprehensive Android Development Course by Paulo Dichone from Udemy recently to master DSA and problem solving in JAVA as well as Android-Development.</string>
+    <string name="hobby_hint">Enter your hobbies here</string>
+    <string name="img_description">Android_Robo_Image</string>
+    <string name="autofill_hints">Spanish Guitar</string>
+</resources>
